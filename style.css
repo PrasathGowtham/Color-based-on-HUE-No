@@ -1,0 +1,27 @@
+.input{
+    text-align: center;
+}
+#colordiv{
+    margin-top:30px ;
+}
+.header{
+    background-color:rgb(0, 0, 0);
+    color: aliceblue;
+    padding: 0;
+}
+#inputcolor{
+    height: 20px;
+    width: 50%;
+}
+#button{
+    height: 30px;
+    width:60px;
+}
+#colordiv{
+    border: 2px solid black;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 20px;
+}
